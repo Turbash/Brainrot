@@ -3,21 +3,23 @@ import Question from "./Question.jsx";
 
 const questions = [
   {
-    question: "How many hours do you spend online daily?",
+    question: "Who is this legendary brainrot creature?",
+    image: "https://pbs.twimg.com/media/FwQwQw7WcAAbQwA?format=jpg&name=large", 
     options: [
-      { text: "<2", score: 0 },
-      { text: "2-4", score: 1 },
-      { text: "4-8", score: 3 },
-      { text: ">8", score: 6 },
+      { text: "Tung Tung Tung Sahur", score: 6 },
+      { text: "Lirily Larila", score: 3 },
+      { text: "Brr Brr Patapim", score: 2 },
+      { text: "Meme Man", score: 0 },
     ],
   },
   {
-    question: "Pick your favorite meme format:",
+    question: "What is the name of this Italian brainrot meme?",
+    image: "https://i.kym-cdn.com/photos/images/newsfeed/002/671/697/7e2.jpg", 
     options: [
-      { text: "Distracted Boyfriend", score: 3, image: "https://media.wired.com/photos/59a459d1e5238d59ce11404f/3:2/w_1600,c_limit/MemeLoveTriangle_297886754.jpg" },
-      { text: "NPC Wojak", score: 5, image: "https://upload.wikimedia.org/wikipedia/en/1/1b/NPC_wojak_meme.png" },
-      { text: "Sigma Grindset", score: 6, image: "https://www.boredpanda.com/blog/wp-content/uploads/2024/06/sigma-face-6.jpg" },
-      { text: "I don't do memes", score: 0 },
+      { text: "Traliliro Trala", score: 9 },
+      { text: "Tung Tung Tung Sahur", score: 3},
+      { text: "Ballerina Cappuccina", score: 5 },
+      { text: "Sharky boy", score: 0 },
     ],
   },
   {
