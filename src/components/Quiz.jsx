@@ -4,7 +4,7 @@ import Question from "./Question.jsx";
 const questions = [
   {
     question: "Who is this legendary brainrot creature?",
-    image: "https://pbs.twimg.com/media/FwQwQw7WcAAbQwA?format=jpg&name=large", 
+    image: "https://i.namu.wiki/i/0ypi7e-TRDnvnfZElFbgO_czhD428hpT2aUes1xaHh961pDetN1q4a5PCwrvosg49dqqAm5Xd2BCnE_gcBY9-FxXB1gque4M6ST5b09BqNY8U2u48eu-AJSViMqsUQHv9z-ZlmnM69Pq6jDwB069lA.webp", 
     options: [
       { text: "Tung Tung Tung Sahur", score: 6 },
       { text: "Lirily Larila", score: 3 },
@@ -14,7 +14,7 @@ const questions = [
   },
   {
     question: "What is the name of this Italian brainrot meme?",
-    image: "https://i.kym-cdn.com/photos/images/newsfeed/002/671/697/7e2.jpg", 
+    image: "https://i.namu.wiki/i/jy227FE9-yfxgPIWni3gC7GimCKFzSI2QdMxw6zrbu9vZt4mCmy5l4sEiswvGvNrIfSKOPl5lv6K_j89LSsirP9MT3VVbbFk0sYwkdYRlshCWV4eKgnS1_38-ffp1JJPg3vzpG0BPdSfQ3CRrVE1Jw.webp", 
     options: [
       { text: "Traliliro Trala", score: 9 },
       { text: "Tung Tung Tung Sahur", score: 3},
